@@ -9,6 +9,6 @@ Goal is to set up WDS on an install of Windows Server, and spin up a second VM t
 
 This directory will be broken up into several parts. The name of each file in this repository will correlate to the names below:
 
-Part 1: Hyper-V and Windows Server Setup
-Part 2: Installing and Using WDS
-Part 3: PXE Boot On a New VM Instance
+1. Part 1: Hyper-V and Windows Server Setup
+2. Part 2: Installing and Using WDS
+3. Part 3: PXE Boot On a New VM Instance
