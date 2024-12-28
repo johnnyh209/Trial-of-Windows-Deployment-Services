@@ -1,4 +1,4 @@
-# Trial-Windows-Deployment-Services
+# Trialing Windows Deployment Services
 My first attempt at using Windows Deployment Services (WDS).
 
 All of this is done in virtual machines. I have opted to use Hyper-V as the hypervisor, along with VMs of Windows Server and Windows 10.
